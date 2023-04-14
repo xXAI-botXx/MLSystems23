@@ -10,6 +10,6 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 
 ### Labor
 * [(optional) Git Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/git_tutorial.ipynb)
-* [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/dvc_tutorial.ipynb.ipynb)
+* [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/dvc_tutorial.ipynb)
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/DeepLakeTutorial.ipynb)
 * [DeepLake Pytorch Data Streaming Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/DeepLakePyTorchExample.ipynb)
