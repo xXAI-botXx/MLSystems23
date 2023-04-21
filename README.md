@@ -13,3 +13,18 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/dvc_tutorial.ipynb)
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/DeepLakeTutorial.ipynb)
 * [DeepLake Pytorch Data Streaming Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_2/DeepLakePyTorchExample.ipynb)
+
+## Woche 3
+
+### Labor
+#### TensorBoard
+* [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_)
+
+#### MLFlow
+* [tunnel Turorial]((https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_)
+* [MLFlow MNIST tracking](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_)
+
+#### WandB
+* [PyTorch API](https://docs.wandb.ai/guides/integrations/pytorch)
+* [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
+* [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
