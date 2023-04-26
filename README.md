@@ -33,6 +33,8 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 
 ### Links
 * [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [TorchPackage API](https://pytorch.org/docs/stable/package.html)
 
 ### Labor
 * [Pip]()
+* [TorchPackage]()
