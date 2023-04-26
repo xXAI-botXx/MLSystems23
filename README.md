@@ -28,3 +28,11 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [PyTorch API](https://docs.wandb.ai/guides/integrations/pytorch)
 * [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
 * [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
+
+## Woche 4
+
+### Links
+* [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+
+### Labor
+* [Pip]()
