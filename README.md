@@ -35,7 +35,10 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 * [TorchPackage API](https://pytorch.org/docs/stable/package.html)
 * [ONNX Docu](https://onnx.ai/onnx/intro/index.html)
+* [Evidently Docu](https://github.com/evidentlyai/evidently/)
 
 ### Labor
-* [Pip]()
-* [TorchPackage]()
+* [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/)
+* [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/torch_package.ipynb)
+* [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/ONNX.ipynb)
+* [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/Evidently.ipynb)
