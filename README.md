@@ -40,9 +40,9 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [Evidently Docu](https://github.com/evidentlyai/evidently/)
 
 ### Labor
-* [MLFlow Model registry)(https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
+* [MLFlow Model registry](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
 * [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/pip_tutorial.ipynb)
 * [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/torch_package.ipynb)
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/ONNX.ipynb)
-* [MLFlow Model Deploymenr)(https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
+* [MLFlow Model Deploymenr](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/Evidently.ipynb)
