@@ -35,10 +35,14 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 * [TorchPackage API](https://pytorch.org/docs/stable/package.html)
 * [ONNX Docu](https://onnx.ai/onnx/intro/index.html)
+* [TorchDeploy Docu](https://github.com/mochangheng/pytorch-deploy)
+* [TorchServe Docu](https://github.com/pytorch/serve)
 * [Evidently Docu](https://github.com/evidentlyai/evidently/)
 
 ### Labor
-* [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/)
+* [MLFlow Model registry)(https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
+* [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/pip_tutorial.ipynb)
 * [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/torch_package.ipynb)
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/ONNX.ipynb)
+* [MLFlow Model Deploymenr)(https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/Evidently.ipynb)
