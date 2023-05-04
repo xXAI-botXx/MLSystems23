@@ -51,16 +51,16 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 
 ### IPWidgets
 * [Docu](https://ipywidgets.readthedocs.io/en/latest/)
-* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
-* [Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/jupyter_widgets.ipynb) 
+* [Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/Interactive ML-Regression.ipynb) 
 
 ### Voila
 * [Docu](https://voila.readthedocs.io/en/stable/)
 * [Example Gallery](https://voila-gallery.org/)
-* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/voila_tutorial.ipynb) 
 * [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
 
 ### Gradio
-* [Docu]()
-* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
+* [Docu](https://gradio.app/docs/)
+* [Tutorial](https://gradio.app/quickstart/) 
 * [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/)
