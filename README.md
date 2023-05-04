@@ -63,4 +63,4 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 ### Gradio
 * [Docu](https://gradio.app/docs/)
 * [Tutorial](https://gradio.app/quickstart/) 
-* [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/)
+* [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/Gradio_exercise.ipynb)
