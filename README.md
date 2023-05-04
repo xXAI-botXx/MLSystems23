@@ -52,13 +52,12 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 ### IPWidgets
 * [Docu](https://ipywidgets.readthedocs.io/en/latest/)
 * [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/jupyter_widgets.ipynb) 
-* [Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/Interactive ML-Regression.ipynb) 
+* [Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/InteractiveML-Regression.ipynb) 
 
 ### Voila
 * [Docu](https://voila.readthedocs.io/en/stable/)
 * [Example Gallery](https://voila-gallery.org/)
 * [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/voila_tutorial.ipynb) 
-* [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
 
 ### Gradio
 * [Docu](https://gradio.app/docs/)
