@@ -56,7 +56,7 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 
 ### Voila
 * [Docu](https://voila.readthedocs.io/en/stable/)
-* [Example Gallery]()
+* [Example Gallery](https://voila-gallery.org/)
 * [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
 * [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/) 
 
