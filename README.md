@@ -46,3 +46,20 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/ONNX.ipynb)
 * [MLFlow Model Deploymenr](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_4/Evidently.ipynb)
+
+## Woche 5
+
+### IPWidgets
+* [Docu](https://ipywidgets.readthedocs.io/en/latest/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/jupyter_widgets.ipynb) 
+* [Example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/InteractiveML-Regression.ipynb) 
+
+### Voila
+* [Docu](https://voila.readthedocs.io/en/stable/)
+* [Example Gallery](https://voila-gallery.org/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/voila_tutorial.ipynb) 
+
+### Gradio
+* [Docu](https://gradio.app/docs/)
+* [Tutorial](https://gradio.app/quickstart/) 
+* [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/Gradio_exercise.ipynb)
