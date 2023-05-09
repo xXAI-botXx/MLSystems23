@@ -27,4 +27,4 @@ docker run -p 10000:8888 jupyter/scipy-notebook:2023-02-28
 ```
 * open the jupyter environment in your browser
 * open the jupyter terminal and start a new conda environment *project3*
-* create and use a new Jupyter kernel with this environment ([see docu](https://docs.anaconda.com/ae-notebooks/user-guide/adv-tasks/work-with-environments/#using-env))
+* create and use a new Jupyter kernel with this environment ([see docu](http://echrislynch.com/2019/02/01/adding-an-environment-to-jupyter-notebooks/))
