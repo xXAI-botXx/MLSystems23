@@ -63,3 +63,8 @@ Kursmaterialien zur Vorlesung Machine Learning Systems
 * [Docu](https://gradio.app/docs/)
 * [Tutorial](https://gradio.app/quickstart/) 
 * [Exercise](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_5/Gradio_exercise.ipynb)
+
+## Woche 6
+Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the *XFCE Base Linux".
+
+* [Anaconda Environments + Jupyter](week_6/assigment_1.md)
