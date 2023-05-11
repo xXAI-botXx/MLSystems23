@@ -46,15 +46,29 @@ Everything we store/save inside the container will be lost when the container te
 
 ### Tasks
 * create a folder in you home and mount it into the container *jupyter* container at start time. 
+* create a new file in *Jupyter*, then terminate the container. Check if the file is still there at re-start.
 
 ## Network
+*Jupyter* is a web-service. The start command you used, mapped some port of the cointainer (probably ```8888```) to a port of the host machine. But, this port might be already taken!
+
+* [Network Docu](https://docs.docker.com/network/bridge/)
 
 ### Tasks
-
+* Use the *publish* flag to map the *Jupyter* port in the container to port ```8856``` of the host and check the connection. 
+* Keep the container running, execute ```docker ps``` one more time
 
 ## Changing Images
+Now, we want to save changes made in the container
+
+* [Docker commit docu](https://docs.docker.com/engine/reference/commandline/commit/)
+* [Docker history](https://docs.docker.com/engine/reference/commandline/history/)
 
 ### Tasks
+* go to *Jupyter* and install some software (*pip install ....*) and add a file in the container ```test.md```
+* user ```docker commit``` to create a new image from the current state of the running container (Hint: you need the container ID)
+* stop the current container 
+* check for your new *image* and show the layer *history*
+* start your new image and check if all the changes are there
 
 
 ## Building Images
