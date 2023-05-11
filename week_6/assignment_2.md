@@ -4,6 +4,8 @@
 
 ## Links
 * [Docker Reference](https://docs.docker.com/reference/)
+* [Docker Hub](https://hub.docker.com/)
+* [NVIDIA NGC](https://catalog.ngc.nvidia.com/containers)
 
 ## Basics
 * Start a terminal and check the docker installation:
@@ -23,11 +25,21 @@ docker images
 
 
 ### Tasks
-* run your first container:
+#### Run your first container:
 ```
 docker run hello-world
 ```
 * Check local *images* again... what happend? 
+
+#### Get a *Jupyter* and *Scikit-Learn* container running
+* find a suitable image on *Docker Hub*
+* pull the image
+* start the container and open ```localhost:8888``` in your browser (Port my vary depending on the image you use)
+* open a second terminal and check the state of running containers ```docker ps```
+* stop the container
+* delete the image from the system
+
+
 
 ## Storage
 
