@@ -72,12 +72,9 @@ Now, we want to save changes made in the container
 
 
 ## Building Images
+Now, we want to build a new image from scratch, using a *Dockerfile*:
+* [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 
 ### Tasks
-
-
-## Publishing Images
-
-
-### Tasks
+* follow the [example](https://docs.docker.com/language/python/build-images/) and create your own python image with a *Dokerfile*
 
