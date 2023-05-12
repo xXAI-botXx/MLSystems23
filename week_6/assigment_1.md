@@ -15,7 +15,7 @@ conda info
 
 ## Task 1
 * setup a new environment named *project1* and switch to this environment
-* install *numpy* with version 1.21.0
+* install *numpy* with version 1.24.3
 * install *scipy* and scikit-learn
 * clone the environment to *project2* and install the latest version of numpy
 * export the environment for deployment
