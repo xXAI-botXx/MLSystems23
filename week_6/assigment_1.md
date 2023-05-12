@@ -21,7 +21,7 @@ conda info
 * export the environment for deployment
 
 ## Task 2
-* end the docker container and get a new one:
+* end the docker container (type ```exit``` in container terminal) and get a new one:
 ```
 docker run -p 10000:8888 jupyter/scipy-notebook:2023-02-28
 ```
