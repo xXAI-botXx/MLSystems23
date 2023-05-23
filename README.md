@@ -69,3 +69,9 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 * [Anaconda Environments + Jupyter](week_6/assigment_1.md)
 * [Docker](week_6/assignment_2.md)
+
+## Woche 7
+- kein Labor
+
+## Woche 8
+- TBA
