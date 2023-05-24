@@ -74,17 +74,17 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 ### Auto Scikit-Learn
 * [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
-* [AutoSK-Learn Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+* [AutoSK-Learn Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/autosklearn.ipynb)
 
 ### EvoTorch
 * [EvoTorch Docs](https://docs.evotorch.ai/v0.4.1/)
-* [EvoTorch trining MNIST example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+* [EvoTorch trining MNIST example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/evotorch_MNIST30K.ipynb)
 
 ### NAS 
 * [NAS Bench-101](https://github.com/google-research/nasbench)
 * [NAS Bench-101 PyTorch Implementation](https://github.com/romulus0914/NASBench-PyTorch/tree/master)
 * [NNI NAS Framework](https://github.com/microsoft/nni/)
-* [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+* [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/NNI_nas.ipynb)
 
 
 ## Woche 8
