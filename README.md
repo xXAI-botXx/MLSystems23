@@ -82,7 +82,9 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 ### NAS 
 * [NAS Bench-101](https://github.com/google-research/nasbench)
-* [NAS Bench-101 Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+* [NAS Bench-101 PyTorch Implementation](https://github.com/romulus0914/NASBench-PyTorch/tree/master)
+* [NNI NAS Framework](https://github.com/microsoft/nni/)
+* [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
 
 
 ## Woche 8
