@@ -71,7 +71,19 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 * [Docker](week_6/assignment_2.md)
 
 ## Woche 7
-- kein Labor
+
+### Auto Scikit-Learn
+* [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
+* [AutoSK-Learn Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+
+### EvoTorch
+* [EvoTorch Docs](https://docs.evotorch.ai/v0.4.1/)
+* [EvoTorch trining MNIST example](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+
+### NAS 
+* [NAS Bench-101](https://github.com/google-research/nasbench)
+* [NAS Bench-101 Demo](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_7/)
+
 
 ## Woche 8
 - TBA
