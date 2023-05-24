@@ -86,4 +86,8 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 
 ## Woche 8
-- TBA
+
+### Links
+* [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+* [Howto build custom PyTorch extensions in CUDA](https://pytorch.org/tutorials/advanced/cpp_extension.html)
+
