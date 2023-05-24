@@ -93,3 +93,5 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 * [Howto build custom PyTorch extensions in CUDA](https://pytorch.org/tutorials/advanced/cpp_extension.html)
 
+### CUDA
+* [Intro to CUDA](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_8/CUDA_Intro.ipynb)
