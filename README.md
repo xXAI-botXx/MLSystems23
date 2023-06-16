@@ -95,3 +95,12 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 ### CUDA
 * [Intro to CUDA](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_8/CUDA_Intro.ipynb)
+
+## Woche 9
+* [Pytorch TPU Tutorial](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_9/Getting_Started_with_PyTorch_on_Cloud_TPUs.ipynb)
+* [MNIST on TPU](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_9/PyTorch_TPU_MNIST_Training.ipynb)
+* [TPU Profiling](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_9/PyTorch_XLA_Profling_Colab_Tutorial.ipynb)
+* [ResNet50 Inference: TPU vs GPU Performance](https://colab.research.google.com/github/keuperj/MLSystems23/blob/main/week_9/PyTorch_TPU_ResNet50_Inference.ipynb)
+
+## Woche 10
+kein Labor
